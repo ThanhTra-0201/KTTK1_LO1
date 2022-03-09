@@ -1,0 +1,36 @@
+
+* {
+    width: 1089px;
+    height: auto;
+}
+        
+div {
+    height: 400px;
+    width: 1089;
+    background-color: cornflowerblue;
+}
+        
+header {
+    height: 150px;
+    width: 1089px;
+    background-color: cyan;
+}
+        
+nav {
+    height: 50px;
+    width: 1089px;
+    background-color: rgb(184, 58, 157);
+}
+        
+
+footer{
+    height: 130;
+    width: 1089;
+    background-color: rgb(243, 7, 7);
+}
+#a1{
+    float: left;
+    height: 400;
+    width: 30%;
+    background-color: rgb(30, 223, 126);
+}
